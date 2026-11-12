@@ -1,2 +1,6 @@
 .env
 /Sequelize/node_modules
+/Log4shell/marshalsec
+/Log4shell/target
+/Log4shell/*.class
+/Log4shell/*.jar
